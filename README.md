@@ -2,6 +2,7 @@
 The client is Artemis Financial, a consulting firm that develops individual financial plans with a public web interface. 
 Artemis Financial offers savings, retirement, investment, and insurance, and they want to modernize the platform that provides it. 
 With the modernization of their platforms, they need the most up-to-date and effective software security to protect their client data and financial information.  
+
 As part of protecting customer data and financial information, Artemis Financial wants to add file verification step to their web application to ensure secure communications. 
 
 I was able to compensate for the vulnerabilities of the software by strengthening the following six factors, and details are described in the report. 
